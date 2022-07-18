@@ -94,7 +94,9 @@ nav.main-menu ul li a:after {
     border-radius: 100%;
     margin-left: 36px;
 }
-
+.hdr-lgo a{
+    display: inline-block;
+}
 
 
 .players{
